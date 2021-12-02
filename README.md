@@ -4,7 +4,7 @@
 Alien Invasion
 
 - Elevator pitch:
-Alien Invasion is an simple but intersting game. You control a fighter plane and fight invading aliens! 
+Alien Invasion is a simple but intersting game. You control a fighter plane and fight invading aliens! 
 
 - Screen shot
   ![alien_invasion.png](https://i.loli.net/2021/12/02/APSWoX3nxUZCEeG.png)
