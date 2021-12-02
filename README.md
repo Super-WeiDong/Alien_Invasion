@@ -3,7 +3,7 @@
 - Name of the app
 Alien Invasion
 
-- Elevator pitch
+- Elevator pitch:
 Alien Invasion is an simple but instersting game. You control a fighter plane and fight invading aliens! 
 
 - Screen shot
